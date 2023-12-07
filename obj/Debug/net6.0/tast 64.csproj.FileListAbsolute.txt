@@ -1,0 +1,15 @@
+C:\Users\Lichi Buh\Desktop\Seminar_C#\inter-certification work\tast 64\bin\Debug\net6.0\tast 64.exe
+C:\Users\Lichi Buh\Desktop\Seminar_C#\inter-certification work\tast 64\bin\Debug\net6.0\tast 64.deps.json
+C:\Users\Lichi Buh\Desktop\Seminar_C#\inter-certification work\tast 64\bin\Debug\net6.0\tast 64.runtimeconfig.json
+C:\Users\Lichi Buh\Desktop\Seminar_C#\inter-certification work\tast 64\bin\Debug\net6.0\tast 64.dll
+C:\Users\Lichi Buh\Desktop\Seminar_C#\inter-certification work\tast 64\bin\Debug\net6.0\tast 64.pdb
+C:\Users\Lichi Buh\Desktop\Seminar_C#\inter-certification work\tast 64\obj\Debug\net6.0\tast 64.csproj.AssemblyReference.cache
+C:\Users\Lichi Buh\Desktop\Seminar_C#\inter-certification work\tast 64\obj\Debug\net6.0\tast 64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lichi Buh\Desktop\Seminar_C#\inter-certification work\tast 64\obj\Debug\net6.0\tast 64.AssemblyInfoInputs.cache
+C:\Users\Lichi Buh\Desktop\Seminar_C#\inter-certification work\tast 64\obj\Debug\net6.0\tast 64.AssemblyInfo.cs
+C:\Users\Lichi Buh\Desktop\Seminar_C#\inter-certification work\tast 64\obj\Debug\net6.0\tast 64.csproj.CoreCompileInputs.cache
+C:\Users\Lichi Buh\Desktop\Seminar_C#\inter-certification work\tast 64\obj\Debug\net6.0\tast 64.dll
+C:\Users\Lichi Buh\Desktop\Seminar_C#\inter-certification work\tast 64\obj\Debug\net6.0\refint\tast 64.dll
+C:\Users\Lichi Buh\Desktop\Seminar_C#\inter-certification work\tast 64\obj\Debug\net6.0\tast 64.pdb
+C:\Users\Lichi Buh\Desktop\Seminar_C#\inter-certification work\tast 64\obj\Debug\net6.0\tast 64.genruntimeconfig.cache
+C:\Users\Lichi Buh\Desktop\Seminar_C#\inter-certification work\tast 64\obj\Debug\net6.0\ref\tast 64.dll
